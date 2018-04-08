@@ -1,7 +1,7 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/Calculate/Calculate",
+    "pages/History/History"
   ],
   "window":{
     "backgroundTextStyle":"light",
